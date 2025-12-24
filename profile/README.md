@@ -6,6 +6,7 @@
 
 ### We are Zentara.
 We are Indonesia’s advanced cybersecurity and digital resilience partner. Our mission is to empower Southeast Asia’s digital future by creating safer, smarter, and more sovereign digital environments.
+
 **Our Philosophy: Zero Trust, Full Clarity.**
 
 ### Our Focus Areas
